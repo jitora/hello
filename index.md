@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog ahhhh
+title: Welcome to my blog
 ---
 
